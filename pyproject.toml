@@ -6,10 +6,6 @@ authors = ["Hong"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-google-cloud-bigquery = "^2.6.1"
-google-cloud = "^0.34.0"
-google-cloud-storage = "^1.34.0"
-google-cloud-pubsub = "^2.2.0"
 
 [tool.poetry.dev-dependencies]
 
